@@ -10,15 +10,6 @@ This repository contains practical examples and Jupyter notebooks on Support Vec
 - Hyperparameter Tuning in SVM
 - Support Vector Regression (SVR) for predicting continuous outcomes
 
-## Getting Started
-
-To get started with these notebooks, clone the repository and install the required dependencies:
-
-```bash
-git clone https://github.com/jacobmarvel/SVM-Explorations.git
-cd SVM-Explorations
-pip install -r requirements.txt
-'''
 ## Notebooks:-
 
 SVM_Basics.ipynb - Introduction to the basic concepts of SVM.
@@ -33,3 +24,13 @@ Python Notebook
 pandas
 numpy
 matplotlib
+
+
+## Getting Started
+
+To get started with these notebooks, clone the repository and install the required dependencies:
+
+```bash
+git clone https://github.com/jacobmarvel/SVM-Explorations.git
+cd SVM-Explorations
+pip install -r requirements.txt
