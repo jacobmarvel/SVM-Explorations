@@ -10,13 +10,13 @@ This repository contains practical examples and Jupyter notebooks on Support Vec
 - Hyperparameter Tuning in SVM
 - Support Vector Regression (SVR) for predicting continuous outcomes
 
-## Notebooks:-
+## Notebooks
 
-- SVM_Basics.ipynb - Introduction to the basic concepts of SVM.
-- SVM_Kernels.ipynb - Demonstrations of various kernels such as linear, polynomial, and RBF.
-- SVR.ipynb - An example of using SVR for a regression problem.
+- **SVM_Basics.ipynb** - Introduction to the basic concepts of SVM.
+- **SVM_Kernels.ipynb** - Demonstrations of various kernels such as linear, polynomial, and RBF.
+- **SVR.ipynb** - An example of using SVR for a regression problem.
 
-#Tools and Technologies:-
+## Tools and Technologies
 
 - Python
 - scikit-learn
@@ -24,7 +24,6 @@ This repository contains practical examples and Jupyter notebooks on Support Vec
 - pandas
 - numpy
 - matplotlib
-
 
 ## Getting Started
 
