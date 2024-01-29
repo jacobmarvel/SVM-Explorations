@@ -18,12 +18,13 @@ To get started with these notebooks, clone the repository and install the requir
 git clone https://github.com/jacobmarvel/SVM-Explorations.git
 cd SVM-Explorations
 pip install -r requirements.txt
-
-#Notebooks:-
+'''
+## Notebooks:-
 
 SVM_Basics.ipynb - Introduction to the basic concepts of SVM.
 SVM_Kernels.ipynb - Demonstrations of various kernels such as linear, polynomial, and RBF.
 SVR.ipynb - An example of using SVR for a regression problem.
+
 #Tools and Technologies:-
 
 Python
